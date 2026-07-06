@@ -1,5 +1,48 @@
 # Server-Discovery-and-Baseline-Assessment
 
+## ⚙️SSH Login
+
+### Command
+```bash
+chmod 400 ~/Documents/port.pem
+charles@Dev ~ % ssh -i ~/Documents/port.pem ubuntu@44.205.4.102
+The authenticity of host '44.205.4.102 (44.205.4.102)' can't be established.
+ED25519 key fingerprint is SHA256:TMelRIwMxemVWuC3bmZYct2LIKKtQHFZTnZTx2sP4l0.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '44.205.4.102' (ED25519) to the list of known hosts.
+Welcome to Ubuntu 26.04 LTS (GNU/Linux 7.0.0-1006-aws x86_64)
+
+ * Documentation:  https://docs.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Mon Jul  6 21:44:47 UTC 2026
+
+  System load:  0.0               Temperature:           -273.1 C
+  Usage of /:   31.1% of 6.61GB   Processes:             116
+  Memory usage: 27%               Users logged in:       0
+  Swap usage:   0%                IPv4 address for ens5: 172.31.9.50
+
+ * Ubuntu Pro delivers the most comprehensive open source security and
+   compliance features.
+
+   https://ubuntu.com/aws/pro
+
+Expanded Security Maintenance for Applications is not enabled.
+
+0 updates can be applied immediately.
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+
+The list of available updates is more than a week old.
+To check for new updates run: sudo apt update
+
+Last login: Mon Jul  6 14:18:30 2026 from 18.206.107.
+```
+
 ## ⚙️ Check User
 
 ### Command
