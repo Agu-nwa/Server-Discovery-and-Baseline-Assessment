@@ -637,7 +637,7 @@ ubuntu@ip-172-31-9-50:~$
 ## 🧾 Server Baseline
 
 | Item | Result|
-|------|-------|
+|---|---|
 | Cloud Server | AWS EC2 |
 | Distribution | Ubuntu 26.04 LTS|
 | Kernel Version | 7.0.0-1006-aws |
