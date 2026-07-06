@@ -622,3 +622,13 @@ uptime
  14:45:49 up 50 min,  1 user,  load average: 0.00, 0.00, 0.00
 ubuntu@ip-172-31-9-50:~$
 ```
+## Server Baseline
+
+| Item | Result|
+----------------
+| Cloud Server | AWS EC2 |
+| Distribution | Ubuntu 26.04 LTS|
+| Kernel Version | 7.0.0-1006-aws |
+| Architecture | x86_64 |
+| Hostname | ip-172-31-9-50 |
+| 
