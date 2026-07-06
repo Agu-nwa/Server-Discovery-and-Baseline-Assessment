@@ -645,4 +645,7 @@ ubuntu@ip-172-31-9-50:~$
 | Hostname | ip-172-31-9-50 |
 | User | ubuntu |
 | Public IP | 44.205.4.102 |
-| Memory/Available |  908Mi  / 585Mi |
+| Memory / Used /Available |  908Mi / 585Mi |
+| Disk Space/Used/Available |  6.7G /2.1G /4.6G |
+| Uptime | 50 min |
+| Load Average |  0.00, 0.00, 0.00 |
