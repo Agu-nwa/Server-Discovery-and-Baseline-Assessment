@@ -622,9 +622,3 @@ uptime
  14:45:49 up 50 min,  1 user,  load average: 0.00, 0.00, 0.00
 ubuntu@ip-172-31-9-50:~$
 ```
-
-```md
-## 📸 Screenshot
-
-<img width="1440" height="900" alt="Login SSH" src="https://github.com/user-attachments/assets/0441ec5d-5124-4f58-8476-2f67632c2a85" />
-```
