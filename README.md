@@ -571,4 +571,11 @@ Swap:             0B          0B          0B
 ubuntu@ip-172-31-9-50:~$
 ```
 
+## Check Server Uptime[how long server has been running]
 
+### Command
+```bash
+uptime
+ 14:45:49 up 50 min,  1 user,  load average: 0.00, 0.00, 0.00
+ubuntu@ip-172-31-9-50:~$
+```
