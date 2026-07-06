@@ -624,6 +624,7 @@ ubuntu@ip-172-31-9-50:~$
 ```
 ## Server Baseline
 
+```
 | Item | Result|
 ----------------
 | Cloud Server | AWS EC2 |
@@ -631,4 +632,4 @@ ubuntu@ip-172-31-9-50:~$
 | Kernel Version | 7.0.0-1006-aws |
 | Architecture | x86_64 |
 | Hostname | ip-172-31-9-50 |
-| 
+```
