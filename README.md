@@ -198,7 +198,7 @@ which apt
 ubuntu@ip-172-31-9-50:~$
 ```
 
-## 🧾 Server Baseline
+## 🧾 Server Baseline Summary
 
 | Item | Result|
 |---|---|
